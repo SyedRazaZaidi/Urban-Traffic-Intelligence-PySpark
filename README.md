@@ -23,13 +23,9 @@ Modern smart cities generate millions of IoT sensor logs daily. Handling this re
 
 ## 📸 System Dashboard
 
-*(Add your screenshots here by dragging and dropping them into the GitHub editor)*
 
-| Live Congestion Predictor | Spark SQL Telemetry & Chart.js |
-| :---: | :---: |
-| `![UI Screenshot 1](link-to-image)` | `![UI Screenshot 2](link-to-image)` |
+<img width="541" height="295" alt="image" src="https://github.com/user-attachments/assets/9fb7332a-d954-4c80-9a83-9aa244839956" />
 
----
 
 ## ⚙️ System Architecture
 
