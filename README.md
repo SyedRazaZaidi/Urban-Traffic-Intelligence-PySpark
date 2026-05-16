@@ -22,7 +22,7 @@ Modern smart cities generate millions of IoT sensor logs daily. Handling this re
 ---
 
 ## 📸 System Dashboard
-
+............
 
 <img width="541" height="295" alt="image" src="https://github.com/user-attachments/assets/9fb7332a-d954-4c80-9a83-9aa244839956" />
 
